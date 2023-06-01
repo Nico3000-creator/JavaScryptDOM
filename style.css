@@ -1,0 +1,18 @@
+.formulario_correcto {
+    color: green;
+}
+
+.formulario_incorrecto {
+    color: red;
+}
+
+.mostrar_mensaje_error {
+    color: violet;
+}
+
+.formulario {
+    display: grid;
+    grid-template-columns: 10rem 10rem;
+    gap: 10px;
+
+}
